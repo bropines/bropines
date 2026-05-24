@@ -4,9 +4,9 @@ I'm just a developer. I'm currently studying Kotlin and Go, while also learning 
 <br>
 
 ### 🛠 Skills
-**Languages:** Python, C(beginer), Kotlin, Bash <br>
-**Frameworks:** Flask, FastAPI <br>
-**Databases:** JSON (HEH LOL), CouchDB (a little) <br>
+**Languages:** Python, C(beginer), Kotlin, Bash, Go <br>
+**Frameworks:** Flask, FastAPI, JetPack Compose, ReactJS <br>
+**Databases:** JSON, CouchDB, MySQL <br>
 **Other:** Docker, Git, REST APIs, Protobuf <br>
 
 <br>
