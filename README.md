@@ -1,10 +1,5 @@
-
-<!-- Таблица для расположения карточек статистики рядом -->
-| <a href="https://github.com/bropines"><img src="https://github-readme-stats.vercel.app/api?username=bropines&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a> | <a href="https://github.com/bropines"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bropines&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a> |
-|---|---|
-
 ### 👋 About Me
-I'm a Python developer who loves to build things that make life easier. Currently focused on `chrome-lens-py`!
+I'm just a developer. I'm currently studying Kotlin and Go, while also learning DevOps.
 
 <br>
 
