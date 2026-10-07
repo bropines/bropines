@@ -28,8 +28,6 @@ val bropines = Developer(
 | [**chrome-lens-py**](https://github.com/bropines/chrome-lens-py) <img src="https://img.shields.io/github/stars/bropines/chrome-lens-py?style=flat-square&label=%E2%98%85&color=8b5cf6" align="right"/> | Google Lens OCR from Python, through the API Chromium itself uses |
 | [**chrome-lens-userscript**](https://github.com/bropines/chrome-lens-userscript) | Translates the text inside images in place, the way Chromium's Lens overlay does |
 | [**oneocr-onnx-python**](https://github.com/bropines/oneocr-onnx-python) | The Windows 11 Snipping Tool OCR engine in plain Python and ONNX Runtime |
-| [**Deeplx-vercel**](https://github.com/bropines/Deeplx-vercel) <img src="https://img.shields.io/github/stars/bropines/Deeplx-vercel?style=flat-square&label=%E2%98%85&color=8b5cf6" align="right"/> | DeepL translation as a serverless function on Vercel |
-| [**Ballon-translator-portable**](https://github.com/bropines/Ballon-translator-portable) | One-click installer for BallonsTranslator, the comic translator |
 
 #### 🧰 Tools
 
